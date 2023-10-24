@@ -1,0 +1,4 @@
+sweetviz
+pandas
+pandasgui
+duckdb
